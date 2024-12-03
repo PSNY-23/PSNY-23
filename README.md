@@ -3,6 +3,19 @@ Welcome to my profile! I'm a passionate **Full-Stack Developer** who loves build
 
 ---
 
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PSNY-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSNY-23&theme=radical&hide_border=false" alt="GitHub Streak" width="48%">
+</div>
+
+---
+
+## 🚀 **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSNY-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
 ## 💻 **Tech Stack**
 
 ### **Frontend Development**
@@ -31,18 +44,7 @@ Welcome to my profile! I'm a passionate **Full-Stack Developer** who loves build
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSNY-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSNY-23&theme=radical&hide_border=false" alt="GitHub Streak" width="48%">
-</div>
 
----
-
-## 🚀 **Top Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSNY-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
 
 ---
 
