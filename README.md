@@ -56,3 +56,5 @@ Welcome to my profile! I'm a passionate **Full-Stack Developer** who loves build
 ---
 
 **Feel free to connect and collaborate!** 😊
+email: [pankajteceract@gmail.com](mailto:your-email@example.com)
+
